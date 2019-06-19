@@ -23,12 +23,12 @@
                     <span class="group-hover:underline">Mailing List</span>
                 </a>
 
-                <a href="#" class="group m-2">
+                <a href="https://twitter.com/PHX2600/" class="group m-2">
                     <i class="fab fa-fw fa-lg fa-twitter"></i>
                     <span class="group-hover:underline">Twitter</span>
                 </a>
 
-                <a href="#" class="group m-2">
+                <a href="https://github.com/PHX2600" class="group m-2">
                     <i class="fab fa-fw fa-lg fa-github"></i>
                     <span class="group-hover:underline">GitHub</span>
                 </a>
