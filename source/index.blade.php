@@ -18,7 +18,7 @@
                     <span class="group-hover:underline">Discord</span>
                 </a>
 
-                <a href="#" class="group m-2">
+                <a href="https://groups.google.com/forum/#!forum/phx2600" class="group m-2">
                     <i class="fas fa-fw fa-lg fa-mail-bulk"></i>
                     <span class="group-hover:underline">Mailing List</span>
                 </a>
