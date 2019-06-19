@@ -1,0 +1,19 @@
+// Tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Icons
+$fa-font-path: "/assets/webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap");
+
+body {
+    // background-image: linear-gradient(135deg, #424242 0%, #121212 60%);
+    background-image: linear-gradient(150deg, #981b1e 10%, #121212 50%);
+}
