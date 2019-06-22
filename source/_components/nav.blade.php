@@ -8,7 +8,7 @@
         </li>
 
         <li class="group text-sm lg:text-base">
-            <a href="#" class="group inline-block text-gray-800 p-4 md:p-6 hover:bg-gray-200">
+            <a href="https://discord.gg/2SHv9Dq" class="group inline-block text-gray-800 p-4 md:p-6 hover:bg-gray-200">
                 <i class="fab fa-fw fa-lg fa-discord"></i>
                 <span class="hidden md:inline">Discord</span>
             </a>
