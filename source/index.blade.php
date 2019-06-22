@@ -41,12 +41,14 @@
                     effort to better use and understand those systems.
                 </p>
 
-                <p class="md:text-sm lg:text-base">
+                <p class="mb-8 md:text-sm lg:text-base">
                     Meetings are held on the first Friday of every month
                     starting at 6PM. There is rarely a planned schedule and
                     anyone prepared to give a presentation or show off a project
                     may do so at any time during the meeting. All meetings are
-                    open to the public.
+                    open to the public. See the
+                    <a href="/guidelines" class="underline hover:text-red-800">Meeting Guidelines</a>
+                    for more info.
                 </p>
             </div>
         </div>
