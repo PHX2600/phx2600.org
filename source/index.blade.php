@@ -37,7 +37,7 @@
                     The PHX2600 is a local group of hackers and technology
                     enthusiasts that meet on a monthly basis to discuss all
                     things code, tech or otherwise hacker related. Most members
-                    enjoy exploring and exploting technology and life in an
+                    enjoy exploring and exploiting technology and life in an
                     effort to better use and understand those systems.
                 </p>
 
