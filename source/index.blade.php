@@ -23,15 +23,12 @@
 
     <div id="meeting-info" class="bg-gray-200">
         <div class="container flex flex-col justify-center items-center px-4 py-16 mx-auto">
-            <h2 class="font-bold uppercase font-mono mb-12">
-                Next Meeting
-            </h2>
+            <meeting-component></meeting-component>
 
-            <div class="rounded bg-white shadow-xl text-6xl font-mono px-8 py-6 mb-12">
-                <meeting-component></meeting-component>
-            </div>
-
-            <p>Refert to Slack or the Mailing List for the current meeting location.</p>
+            <p class="text-gray-600 text-sm">
+                Check <a href="https://twitter.com/PHX2600" class="hover:underline">Twitter</a>
+                for the current meeting location.
+            </p>
         </div>
     </div>
 

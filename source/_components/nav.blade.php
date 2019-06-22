@@ -22,7 +22,7 @@
         </li>
 
         <li class="group text-sm lg:text-base">
-            <a href="https://twitter.com/PHX2600/" class="group inline-block text-gray-800 p-4 md:p-6 hover:bg-gray-200">
+            <a href="https://twitter.com/PHX2600" class="group inline-block text-gray-800 p-4 md:p-6 hover:bg-gray-200">
                 <i class="fab fa-fw fa-lg fa-twitter"></i>
                 <span class="hidden md:inline">Twitter</span>
             </a>
