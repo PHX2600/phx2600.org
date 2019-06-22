@@ -14,7 +14,7 @@
                     </h1>
                 </div>
 
-                <div class="border-t border-b border-1 border-white text-gray-200 text-sm p-2 mb-2">
+                <div class="border-t border-b border-1 border-gray-400 text-gray-400 text-sm p-2 mb-2">
                     <strong>Hacker</strong> [hack·er] /n/ - One who seeks to understand the details of a system and strives to stretch it's capabilities beyond the original intent.
                 </div>
             </div>
