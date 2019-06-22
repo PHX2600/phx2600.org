@@ -22,13 +22,33 @@
     </div>
 
     <div id="meeting-info" class="bg-gray-200">
-        <div class="container flex flex-col justify-center items-center px-4 py-16 mx-auto">
-            <meeting-component></meeting-component>
+        <div class="container flex flex-col justify-center items-center px-4 py-16 mx-auto md:flex-row md:items-start">
+            <div class="mb-8 text-center md:mb-0 md:mr-16">
+                <meeting-component></meeting-component>
 
-            <p class="text-gray-600 text-sm">
-                Check <a href="https://twitter.com/PHX2600" class="hover:underline">Twitter</a>
-                for the current meeting location.
-            </p>
+                <p class="text-gray-600 text-sm">
+                    Check <a href="https://twitter.com/PHX2600" class="hover:underline">Twitter</a>
+                    for the current meeting location.
+                </p>
+            </div>
+
+            <div class="max-w-md">
+                <p class="text-xl mb-8 md:text-base lg:text-xl">
+                    The PHX2600 is a local group of hackers and technology
+                    enthusiasts that meet on a monthly basis to discuss all
+                    things code, tech or otherwise hacker related. Most members
+                    enjoy exploring and exploting technology and life in an
+                    effort to better use and understand those systems.
+                </p>
+
+                <p class="md:text-sm lg:text-base">
+                    Meetings are held on the first Friday of every month
+                    starting at 6PM. There is rarely a planned schedule and
+                    anyone prepared to give a presentation or show off a project
+                    may do so at any time during the meeting. All meetings are
+                    open to the public.
+                </p>
+            </div>
         </div>
     </div>
 
