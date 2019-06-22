@@ -32,12 +32,14 @@
         </div>
     </div>
 
-    <footer class="flex justify-center items-center bg-gray-900 px-4 py-8">
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="text-3xl text-white">
-            <i class="fab fa-creative-commons fa-fw"></i>
-            <i class="fab fa-creative-commons-by fa-fw"></i>
-            <i class="fab fa-creative-commons-nc fa-fw"></i>
-            <i class="fab fa-creative-commons-sa fa-fw"></i>
-        </a>
+    <footer class="bg-gray-900">
+        <div class="container flex justify-center items-center mx-auto px-4 py-12">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="text-3xl text-white">
+                <i class="fab fa-creative-commons fa-fw"></i>
+                <i class="fab fa-creative-commons-by fa-fw"></i>
+                <i class="fab fa-creative-commons-nc fa-fw"></i>
+                <i class="fab fa-creative-commons-sa fa-fw"></i>
+            </a>
+        </div>
     </footer>
 @endsection
