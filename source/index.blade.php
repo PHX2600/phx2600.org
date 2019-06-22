@@ -33,7 +33,7 @@
             </div>
 
             <div class="max-w-md">
-                <p class="text-xl mb-8 md:text-base lg:text-xl">
+                <p class="mb-8 md:text-sm lg:text-base">
                     The PHX2600 is a local group of hackers and technology
                     enthusiasts that meet on a monthly basis to discuss all
                     things code, tech or otherwise hacker related. Most members
