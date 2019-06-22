@@ -1,5 +1,5 @@
 <template>
-    <div id="meeting" class="rounded-lg bg-white shadow-xl text-center overflow-hidden mb-12">
+    <div id="meeting" class="rounded-lg bg-white shadow-xl text-center overflow-hidden mb-8">
         <h2 class="bg-blue-600 font-bold uppercase text-white text-xl px-8 py-6">
             Next Meeting
         </h2>
