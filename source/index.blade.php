@@ -33,7 +33,7 @@
     </div>
 
     <footer class="flex justify-center items-center bg-gray-900 px-4 py-8">
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="text-xl text-white">
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="text-3xl text-white">
             <i class="fab fa-creative-commons fa-fw"></i>
             <i class="fab fa-creative-commons-by fa-fw"></i>
             <i class="fab fa-creative-commons-nc fa-fw"></i>
