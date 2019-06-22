@@ -13,7 +13,11 @@ $fa-font-path: "/assets/webfonts";
 // Fonts
 @import url("https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap");
 
-body {
+#banner {
     // background-image: linear-gradient(135deg, #424242 0%, #121212 60%);
-    background-image: linear-gradient(150deg, #981b1e 10%, #121212 50%);
+    background-image: linear-gradient(
+        to bottom right,
+        #981b1e 15%,
+        #121212 65%
+    );
 }
