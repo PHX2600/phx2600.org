@@ -3,7 +3,7 @@
 @section('content')
     @include('_components.nav')
 
-    <div id="banner">
+    <div id="banner" class="bg-gradient-red-black">
         <div class="container flex flex-col justify-between items-center px-4 py-12 mx-auto sm:py-24 md:py-32">
             <div class="flex flex-col justify-center items-center">
                 <div class="mb-8">
