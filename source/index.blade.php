@@ -27,7 +27,7 @@
                 <meeting-component></meeting-component>
 
                 <p class="text-gray-600 text-sm">
-                    Check <a href="https://twitter.com/PHX2600" class="hover:underline">Twitter</a>
+                    Check <a href="https://twitter.com/PHX2600" class="underline">Twitter</a>
                     for the current meeting location.
                 </p>
             </div>
