@@ -1,0 +1,21 @@
+[build]
+  command = 'npm run production && vendor/bin/jigsaw build production'
+  publish = 'build_production'
+
+[[redirects]]
+  from = 'http://phx2600.netlify.com/*'
+  to = 'https://www.phx2600.org/:splat'
+  status = 301
+  force = true
+
+[[redirects]]
+  from = 'https://phx2600.netlify.com/*'
+  to = 'https://www.phx2600.org/:splat'
+  status = 301
+  force = true
+
+[[redirects]]
+  from = 'http://www.phx2600.org/*'
+  to = 'https://www.phx2600.org/:splat'
+  status = 301
+  force = true

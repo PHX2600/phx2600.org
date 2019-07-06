@@ -1,6 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://phx2600.netlify.com/* https://www.phx2600.org/:splat 301!
-https://phx2600.netlify.com/* https://www.phx2600.org/:splat 301!
-
-# Redirect non-https requests to https
-http://www.phx2600.org/* https://www.phx2600.org/:splat 301!
