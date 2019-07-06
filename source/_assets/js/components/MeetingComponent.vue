@@ -1,19 +1,19 @@
 <template>
     <div id="meeting" class="rounded-lg bg-white shadow-xl text-center overflow-hidden mb-8">
-        <h2 class="bg-blue-600 font-bold uppercase text-white text-xl px-8 py-6">
+        <h2 class="bg-blue-600 font-bold uppercase text-white px-8 py-6 sm:text-xl">
             Next Meeting
         </h2>
 
-        <div class="flex justify-center items-center font-mono px-8 py-12">
-            <span class="text-3xl mx-2">
+        <div class="flex justify-center items-center font-mono px-6 py-10 sm:px-8 sm:py-12">
+            <span class="text-2xl mx-2 sm:text-3xl">
                 {{ month }}
             </span>
 
-            <span class="text-6xl mx-2">
+            <span class="text-5xl mx-2 sm:text-6xl">
                 {{ day }}
             </span>
 
-            <span class="text-3xl mx-2">
+            <span class="text-2xl mx-2 sm:text-3xl">
                 {{ year }}
             </span>
         </div>
