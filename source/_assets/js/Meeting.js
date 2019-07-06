@@ -8,7 +8,7 @@ export default class Meeting {
     next() {
         let thisFristFriday = this.firstFridayOfThisMonth();
 
-        if (this.today.isAfter(thisFristFriday)) {
+        if (this.today.isAfter(thisFristFriday, 'day')) {
             return this.firstFridayOfNextMonth();
         }
 
