@@ -8,8 +8,16 @@ mix.webpackConfig({
     plugins: [
         build.jigsaw,
         build.browserSync(),
-        build.watch(['source/**/*.md', 'source/**/*.php', 'source/**/*.scss', '!source/**/_tmp/*']),
-    ]
+        build.watch([
+            "source/**/*.md",
+            "source/**/*.php",
+            "source/**/*.scss",
+            "!source/**/_tmp/*"
+        ])
+    ],
+    watchOptions: {
+        ignored: /node_modules/
+    }
 });
 
 mix.sass('source/_assets/sass/app.scss', 'css').options({
