@@ -34,5 +34,6 @@ mix.copyDirectory(
 );
 
 mix.purgeCss({
-    folders: ['source']
+    folders: ["source"],
+    whitelist: ["html", "body", "main"]
 });
