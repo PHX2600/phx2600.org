@@ -3,6 +3,8 @@ phx2600.org
 
 The Phoenix, Arizona network of hackers homepage.
 
+![phx2600.org](screenshot.png)
+
 Development Requirements
 ------------------------
 
