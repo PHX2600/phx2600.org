@@ -1,10 +1,8 @@
 @extends('_layouts.app')
 
 @section('content')
-    @include('_components.nav')
-
     <div id="banner" class="bg-gradient-red-black">
-        <div class="container flex flex-col justify-between items-center px-4 py-12 mx-auto sm:py-24 md:py-32">
+        <div class="container flex flex-col justify-between items-center px-4 py-16 mx-auto sm:py-24 md:py-32">
             <div class="flex flex-col justify-center items-center">
                 <div class="mb-8">
                     <img src="/assets/images/phx2600.svg" alt="PHX2600 Logo" class="h-32 mb-2 sm:mb-8">
@@ -21,8 +19,14 @@
         </div>
     </div>
 
+    <nav class="block relative w-100 h-0">
+        <div class="relative max-w-6xl mx-auto px-4 -top-2 md:-top-4">
+            @include('_components.nav')
+        </div>
+    </nav>
+
     <div id="meeting-info" class="bg-gray-200">
-        <div class="container flex flex-col justify-center items-center px-4 py-16 mx-auto md:flex-row md:items-start">
+        <div class="container flex flex-col justify-center items-center mx-auto px-4 py-16 sm:py-24 md:py-32 md:flex-row md:items-start">
             <div class="mb-8 text-center md:mb-0 md:mr-16">
                 <meeting-component></meeting-component>
 

@@ -3,6 +3,10 @@ module.exports = {
         extend: {
             fontFamily: {
                 mono: ["Cutive Mono", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", "monospace"]
+            },
+            inset: {
+                '-2': '-1.75rem',
+                '-4': '-2.25rem'
             }
         },
         gradients: () => ({
@@ -10,6 +14,7 @@ module.exports = {
         })
     },
     variants: {
+        inset: ['responsive'],
         textDecoration: ["responsive", "hover", "focus", "group-hover"]
     },
     plugins: [
