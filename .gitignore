@@ -4,6 +4,7 @@
 /cache/
 /node_modules/
 /source/assets/build/
+/source/assets/webfonts/
 /vendor/
 /.idea/
 /.vscode/
