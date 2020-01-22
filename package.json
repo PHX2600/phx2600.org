@@ -10,23 +10,23 @@
     },
     "dependencies": {
         "moment": "^2.24.0",
-        "vue": "^2.6.10"
+        "vue": "^2.6.11"
     },
     "devDependencies": {
-        "@fortawesome/fontawesome-free": "^5.11.2",
+        "@fortawesome/fontawesome-free": "^5.12.0",
         "browser-sync": "^2.26.3",
         "browser-sync-webpack-plugin": "^2.0.1",
-        "cross-env": "^3.2.3",
+        "cross-env": "^6.0.0",
         "extra-watch-webpack-plugin": "^1.0.3",
         "hasbin": "^1.2.3",
-        "laravel-mix": "^4.1.4",
+        "laravel-mix": "^5.0.0",
         "laravel-mix-purgecss": "^4.2.0",
         "lodash": "^4.17.15",
         "node-cmd": "^3.0.0",
-        "sass": "^1.23.1",
-        "sass-loader": "^7.3.1",
+        "sass": "^1.25.0",
+        "sass-loader": "^8.0.0",
         "tailwindcss": "^1.1.4",
-        "vue-template-compiler": "^2.6.10",
-        "yargs": "^4.6.0"
+        "vue-template-compiler": "^2.6.11",
+        "yargs": "^15.1.0"
     }
 }

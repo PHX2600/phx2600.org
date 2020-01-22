@@ -40,4 +40,3 @@ Local Development
 ### Production
 
     vendor/bin/jigsaw build prodcution
-    
