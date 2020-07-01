@@ -9,7 +9,7 @@
         "watch": "npm run local -- --watch"
     },
     "dependencies": {
-        "moment": "^2.26.0",
+        "moment": "^2.27.0",
         "vue": "^2.6.11"
     },
     "devDependencies": {
