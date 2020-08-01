@@ -14,7 +14,7 @@
     },
     "devDependencies": {
         "@fortawesome/fontawesome-free": "^5.13.1",
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^2.26.12",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^7.0.2",
         "extra-watch-webpack-plugin": "^1.0.3",
