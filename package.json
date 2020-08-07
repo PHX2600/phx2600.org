@@ -13,8 +13,8 @@
         "vue": "^2.6.11"
     },
     "devDependencies": {
-        "@fortawesome/fontawesome-free": "^5.13.1",
-        "browser-sync": "^2.26.3",
+        "@fortawesome/fontawesome-free": "^5.14.0",
+        "browser-sync": "^2.26.12",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^7.0.2",
         "extra-watch-webpack-plugin": "^1.0.3",
@@ -24,9 +24,9 @@
         "lodash": "^4.17.19",
         "node-cmd": "^3.0.0",
         "sass": "^1.26.10",
-        "sass-loader": "^9.0.2",
-        "tailwindcss": "^1.4.6",
+        "sass-loader": "^9.0.3",
+        "tailwindcss": "^1.6.2",
         "vue-template-compiler": "^2.6.11",
-        "yargs": "^15.4.0"
+        "yargs": "^15.4.1"
     }
 }
