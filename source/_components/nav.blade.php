@@ -14,7 +14,7 @@
     </li>
 
     <li class="group text-base lg:text-lg">
-        <a href="https://groups.google.com/forum/#!forum/phx2600" class="group inline-block text-gray-800 p-4 md:p-6 hover:bg-gray-200">
+        <a href="https://groups.google.com/g/phx2600" class="group inline-block text-gray-800 p-4 md:p-6 hover:bg-gray-200">
             <i class="fas fa-fw fa-lg fa-mail-bulk"></i>
             <span class="hidden sm:inline">Mailing List</span>
         </a>
