@@ -7,7 +7,7 @@
                 <div class="mb-8">
                     <img src="/assets/images/phx2600.svg" alt="PHX2600 Logo" class="h-32 mb-2 sm:mb-8">
 
-                    <h1 class="font-mono text-gray-200 text-base text-xl text-center mx-auto sm:absolute sm:text-left sm:ml-12 sm:-mt-12 sm:text-xl md:ml-16 md:-mt-12 md:text-2xl">
+                    <h1 class="font-mono text-gray-200 text-xl text-center mx-auto sm:absolute sm:text-left sm:ml-12 sm:-mt-12 sm:text-xl md:ml-16 md:-mt-12 md:text-2xl">
                         The Phoenix, Arizona Network of Hackers
                     </h1>
                 </div>
