@@ -1,8 +1,12 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 module.exports = {
+    plugins: [require('./source/_assets/js/plugins/gradients')],
+    purge: ['source'],
     theme: {
         extend: {
             fontFamily: {
-                mono: ["Cutive Mono", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", "monospace"]
+                mono: ['Cutive Mono', ...defaultTheme.fontFamily.mono]
             },
             inset: {
                 '-2': '-1.75rem',
@@ -15,9 +19,6 @@ module.exports = {
     },
     variants: {
         inset: ['responsive'],
-        textDecoration: ["responsive", "hover", "focus", "group-hover"]
-    },
-    plugins: [
-        require('./source/_assets/js/plugins/gradients')
-    ]
+        textDecoration: ['responsive', 'hover', 'focus', 'group-hover']
+    }
 };
