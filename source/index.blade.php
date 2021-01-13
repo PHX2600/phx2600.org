@@ -1,7 +1,7 @@
 @extends('_layouts.app')
 
 @section('content')
-    <div id="banner" class="bg-gradient-red-black">
+    <div id="banner" class="bg-gradient-to-br from-red-800 via-red-gray-800 to-gray-800">
         <div class="container flex flex-col justify-between items-center px-4 py-16 mx-auto sm:py-24 md:py-32">
             <div class="flex flex-col justify-center items-center">
                 <div class="mb-8">

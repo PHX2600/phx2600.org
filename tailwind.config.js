@@ -1,10 +1,14 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
+const colors = require('tailwindcss/colors');
 
 module.exports = {
-    plugins: [require('./source/_assets/js/plugins/gradients')],
     purge: ['source'],
     theme: {
         extend: {
+            colors: {
+                blue: colors.lightBlue,
+                gray: colors.blueGray,
+            },
             fontFamily: {
                 mono: ['Cutive Mono', ...defaultTheme.fontFamily.mono]
             },
@@ -13,9 +17,6 @@ module.exports = {
                 '-4': '-2.25rem'
             }
         },
-        gradients: () => ({
-            'red-black': ['to bottom right', '#981b1e 15%', '#121212 65%'],
-        })
     },
     variants: {
         inset: ['responsive'],
